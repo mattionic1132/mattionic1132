@@ -28,8 +28,7 @@ class Matthew:
     languages  = ["Python", "Java", "C", "SQL"]
     hardware   = ["Creo Parametric", "Circuit Design", "PCB Prototyping"]
     interests  = ["AI Agents", "Data Science", "Systems Engineering", "LLM Pipelines"]
-    currently  = "Routing underground infrastructure with AI 🌐"
-    motto      = "Build systems that think. Engineer solutions that last."
+    currently  = "Learning the latest LLM tools 🌐"
 ```
 
 ---
