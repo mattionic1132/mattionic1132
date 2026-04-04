@@ -109,18 +109,6 @@ class Matthew:
 
 ---
 
-## `> github_stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattionic1132&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D9FF"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattionic1132&layout=compact&theme=tokyonight&border_color=00D9FF"/>
-
-</div>
-
----
-
 ## `> activity_graph`
 
 <!-- Replace mattionic1132 below -->
@@ -174,9 +162,7 @@ class Matthew:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matthew-yong-a13972172)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mattionic1132)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newmytzekye000@gmail.com)
-[![NTU](https://img.shields.io/badge/NTU%20Singapore-003D7C?style=for-the-badge&logo=academia&logoColor=white)](https://www.ntu.edu.sg)
+
 
 <br/>
 
