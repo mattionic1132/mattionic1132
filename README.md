@@ -38,8 +38,8 @@ class Matthew:
 <table>
   <tr>
     <td width="50%">
-      <h3>🌐 Intelligent Underground Routing</h3>
-      <p>A spatial routing system for underground infrastructure leveraging <strong>Three.js</strong> for 3D visualization and <strong>OpenAI</strong> for intelligent path decision-making. Optimizes routing constraints in complex subsurface environments.</p>
+      <h3>🌐 Intelligent AI Programming and Engineering Assistant (Coming Soon!)</h3>
+      <p>A personal AI assistant using Standford's OpenJarvis integrated with Obsidian for day-to-day work (task-scheduling, GitHub autocommits and management etc, and AI agents like Claude for assisted programming. Smart Desk with robotics feature to be integrated as well for AI assisted engineering (scanning hardware, breadboard design, circuit testings etc). </p>
       <p>
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
