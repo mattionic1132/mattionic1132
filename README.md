@@ -8,7 +8,7 @@
 <br/>
 
 <!-- SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=AI+Agents+%7C+Data+Science+%7C+Engineering+%7C+NTU+Singapore" alt="Subtitle Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=AI+Agents+%7C+Data+Science+&+Engineering+%7C+Engineering+%7C+NTU+Singapore" alt="Subtitle Typing SVG" />
 
 <br/>
 
@@ -63,10 +63,10 @@ class Matthew:
 ## `> roadmap_progress`
 
 <div align="center">
-  <a href="https://roadmap.sh/u/mattionic1132">
-    <img src="https://roadmap.sh/card/wide/mattionic1132?variant=dark" alt="roadmap.sh progress card"/>
-  </a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69e6213335198b31d667bc82?variant=dark" alt="roadmap.sh"/></a>
 </div>
+
+---
 
 ---
 
