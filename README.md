@@ -8,7 +8,7 @@
 <br/>
 
 <!-- SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=AI+Agents+%7C+Data+Science+&+Engineering+%7C+Engineering+%7C+NTU+Singapore" alt="Subtitle Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=AI+Agents+%7C+Data+Science+%7C+Engineering+%7C+NTU+Singapore" alt="Subtitle Typing SVG" />
 
 <br/>
 
