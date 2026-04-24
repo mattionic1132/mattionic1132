@@ -2,7 +2,7 @@ name: Refresh Roadmap Card
 
 on:
   schedule:
-    - cron: "0 1 * * *"  # runs daily at 1am UTC
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,8 +15,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: Download latest card
         run: |
+          mkdir -p assets
           curl -o assets/roadmap-card.png \
-            "https://roadmap.sh/card/tall/69e6213335198b31d667bc82?variant=dark"
+            "https://roadmap.sh/card/wide/69e6213335198b31d667bc82?variant=dark"
       - name: Commit if changed
         run: |
           git config user.name "github-actions"
