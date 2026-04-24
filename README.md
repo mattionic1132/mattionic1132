@@ -64,7 +64,7 @@ class Matthew:
 
 <div align="center">
   <a href="https://roadmap.sh">
-    <img src="assets/roadmap-card.png" alt="roadmap.sh progress"/>
+    <img src="assets/roadmap-card.svg" alt="roadmap.sh progress"/>
   </a>
 </div>
 
