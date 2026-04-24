@@ -16,8 +16,8 @@ jobs:
       - name: Download latest card
         run: |
           mkdir -p assets
-          curl -o assets/roadmap-card.png \
-            "https://roadmap.sh/card/tall/69e6213335198b31d667bc82?variant=dark"
+          curl -L -o assets/roadmap-card.png \
+            "https://roadmap.sh/card/wide/69e6213335198b31d667bc82?variant=dark"
       - name: Commit if changed
         run: |
           git config user.name "github-actions"
