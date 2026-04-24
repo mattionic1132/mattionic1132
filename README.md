@@ -63,7 +63,7 @@ class Matthew:
 ## `> roadmap_progress`
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69e6213335198b31d667bc82?variant=dark" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69e6213335198b31d667bc82?variant=dark"alt="roadmap.sh"/></a>
 </div>
 
 ---
