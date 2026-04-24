@@ -1,0 +1,26 @@
+name: Refresh Roadmap Card
+
+on:
+  schedule:
+    - cron: "0 1 * * *"  # runs daily at 1am UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download latest card
+        run: |
+          curl -o assets/roadmap-card.png \
+            "https://roadmap.sh/card/tall/69e6213335198b31d667bc82?variant=dark"
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add assets/roadmap-card.png
+          git diff --cached --quiet || git commit -m "chore: refresh roadmap card"
+          git push
