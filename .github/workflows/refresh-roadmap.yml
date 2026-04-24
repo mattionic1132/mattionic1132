@@ -13,11 +13,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Download latest card
+
+      - name: Install dependencies
+        run: pip install requests Pillow
+
+      - name: Download roadmap card
         run: |
-          mkdir -p assets
-          curl -L -o assets/roadmap-card.png \
-            "https://roadmap.sh/card/wide/69e6213335198b31d667bc82?variant=dark"
+          python3 - <<'EOF'
+          import requests, os
+          os.makedirs("assets", exist_ok=True)
+          url = "https://roadmap.sh/card/wide/69e6213335198b31d667bc82?variant=dark"
+          headers = {"Accept": "image/png,image/*", "User-Agent": "Mozilla/5.0"}
+          r = requests.get(url, headers=headers, allow_redirects=True, timeout=30)
+          print(f"Status: {r.status_code}, Content-Type: {r.headers.get('content-type')}, Size: {len(r.content)}")
+          with open("assets/roadmap-card.png", "wb") as f:
+              f.write(r.content)
+          EOF
+
       - name: Commit if changed
         run: |
           git config user.name "github-actions"
