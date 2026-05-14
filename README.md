@@ -8,7 +8,7 @@
 <br/>
 
 <!-- SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=AI+Agents+%7C+Data+Science+%7C+Engineering+%7C+NTU+Singapore" alt="Subtitle Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=AI+%7C+Data+Science+%7C+Engineering+%7C+NTU+Singapore" alt="Subtitle Typing SVG" />
 
 <br/>
 
@@ -27,8 +27,8 @@ class Matthew:
     role       = "Data Science & AI Student @ NTU Singapore"
     languages  = ["Python", "Java", "C", "SQL"]
     hardware   = ["Creo Parametric", "Circuit Design", "PCB Prototyping"]
-    interests  = ["AI Agents", "Data Science", "Systems Engineering", "LLM Pipelines"]
-    currently  = "Learning the latest LLM tools 🌐"
+    interests  = ["AI", "Data Science", "Data Engineering", "Data Analytics"]
+    currently  = "Learning Databricks 🧱"
 ```
 
 ---
@@ -38,11 +38,10 @@ class Matthew:
 <table>
   <tr>
     <td width="50%">
-      <h3>🌐 Intelligent AI Programming and Engineering Assistant (Coming Soon!)</h3>
-      <p>A personal AI assistant using Standford's OpenJarvis integrated with Obsidian for day-to-day work (task-scheduling, GitHub autocommits and management etc, and AI agents like Claude for assisted programming. Smart Desk with robotics feature to be integrated as well for AI assisted engineering (scanning hardware, breadboard design, circuit testings etc). </p>
+      <h3>Learning Databricks 🧱</h3>
+      <p>I am currently exploring the field of data engineering, learning fundamental concepts and different tools like apache spark, databricks, azure and much more! </p>
       <p>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="shields.io" alt="Databricks"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
@@ -104,17 +103,17 @@ class Matthew:
 ## `> current_focus`
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                       CURRENT FOCUS  🎯                         │
-├─────────────────────────────────────────────────────────────────┤
+┌──────────────────────────────────────────────────────────────────┐
+│                        CURRENT FOCUS  🎯                        │
+├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
-│  🧠  Deepening expertise in AI Agents & LLM orchestration       │
-│  🌐  Building spatial AI systems with Three.js + OpenAI         │
+│  🧠  Deepening expertise in AI Agents & LLM orchestration        │
+│  🧱  Learning Databricks for Data Engineering                    │
 │  📊  Applying ML to real-world agricultural & food science data  │
 │  ⚙️  Bridging software intelligence with hardware engineering    │
 │  🚀  Exploring agentic pipelines for autonomous decision-making  │
 │                                                                  │
-└─────────────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
