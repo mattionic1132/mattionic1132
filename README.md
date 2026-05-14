@@ -41,7 +41,7 @@ class Matthew:
       <h3>Learning Databricks 🧱</h3>
       <p>I am currently exploring the field of data engineering, learning fundamental concepts and different tools like apache spark, databricks, azure and much more! </p>
       <p>
-        <img src="shields.io" alt="Databricks"/>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
