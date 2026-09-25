@@ -104,12 +104,12 @@ class Matthew:
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│                        CURRENT FOCUS  🎯                        │
+│                        CURRENT FOCUS  🎯                         │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
-│  🧠  Deepening expertise in AI Agents & LLM orchestration        │
+│  🧠  Trying all kinds of data projects                           │
 │  🧱  Learning Databricks for Data Engineering                    │
-│  📊  Applying ML to real-world agricultural & food science data  │
+│  📊  Applying ML to real-world data                              │
 │  ⚙️  Bridging software intelligence with hardware engineering    │
 │  🚀  Exploring agentic pipelines for autonomous decision-making  │
 │                                                                  │
